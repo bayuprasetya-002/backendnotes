@@ -6,7 +6,7 @@ POST http://localhost:5000/notes
 Content-Type: application/json
 
 {
-    "judul": "Catatan Dasar",
+    "judul": "Catatan bersejarah",
     "deskripsi": "Hari ini saya belajar dasar dasar backend."
 }
 
